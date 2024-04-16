@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying AI at Durham College
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 Reach me on kadamandla36ve@gmail.com
+- 😉
 
 <!---
 sharonkadamandla/sharonkadamandla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
