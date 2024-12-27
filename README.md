@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sharonkadamandla
 - 👀 I’m interested in technology
-- 🌱 I’m currently studying AI at Durham College
-- 💞️ I’m looking to collaborate on AI projects
-- 📫 Reach me on kadamandla36ve@gmail.com
+- 🌱 I’m currently studying Data Analysis at Durham College
+- 💞️ I’m looking to collaborate on AI/Full Stack projects
+- 📫 Reach me at kadamandla36ve@gmail.com
 - 😉
 
 <!---
