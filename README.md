@@ -6,7 +6,9 @@
 
 🚀 Always exploring new technologies and improving problem-solving skills. Check out my repos and feel free to contribute!
 
-📫 Reach me at kadamandla36ve@gmail.com - Let’s build something great together! 💻✨
+I'm always game for a LeetCode showdown! ⚡ Shoot me an email if you're up for a challenge and some fun! 😎🚀 
+
+📫 @ kadamandla36ve@gmail.com - Let’s build something great together! 💻✨
 
 <!---
 sharonkadamandla/sharonkadamandla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
